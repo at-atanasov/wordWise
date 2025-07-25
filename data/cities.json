@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,103 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "685d",
+      "cityName": "Karlovo",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2025-07-25T12:40:35.957Z",
+      "notes": "Karlovo City",
+      "position": {
+        "lat": "42.633706141059655",
+        "lng": "24.803352355957035"
+      }
+    },
+    {
+      "id": "9027",
+      "cityName": "Buenache de la Sierra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-25T12:58:41.798Z",
+      "notes": "",
+      "position": {
+        "lat": "40.094882122321174",
+        "lng": "-1.9775390625000002"
+      }
+    },
+    {
+      "id": "dc5f",
+      "cityName": "Aranzueque",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-25T13:02:19.876Z",
+      "notes": "assa",
+      "position": {
+        "lat": "40.47620304302563",
+        "lng": "-3.0487060546875004"
+      }
+    },
+    {
+      "id": "d6f2",
+      "cityName": "Calvarrasa de Abajo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-25T13:02:39.248Z",
+      "notes": "aaa",
+      "position": {
+        "lat": "40.967455873296714",
+        "lng": "-5.5096435546875"
+      }
+    },
+    {
+      "id": "6571",
+      "cityName": "Olmos de Esgueva",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-25T13:14:03.972Z",
+      "notes": "aadad",
+      "position": {
+        "lat": "41.68111756290652",
+        "lng": "-4.520874023437501"
+      }
+    },
+    {
+      "id": "997e",
+      "cityName": "Balearic Islands",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-07-25T13:17:46.532Z",
+      "notes": "aaa",
+      "position": {
+        "lat": "39.41922073655956",
+        "lng": "3.3178710937500004"
+      }
+    },
+    {
+      "id": "e3f6",
+      "cityName": "Belvi",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-07-25T13:18:12.971Z",
+      "notes": "aaa",
+      "position": {
+        "lat": "39.9602803542957",
+        "lng": "9.140625000000002"
+      }
+    },
+    {
+      "id": "dca7",
+      "cityName": "Boudouaou",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-07-25T13:18:58.501Z",
+      "notes": "aaa",
+      "position": {
+        "lat": "36.721273880045004",
+        "lng": "3.40576171875"
+      }
     }
   ]
 }
