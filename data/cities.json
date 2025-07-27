@@ -83,54 +83,6 @@
         "lat": "40.967455873296714",
         "lng": "-5.5096435546875"
       }
-    },
-    {
-      "id": "6571",
-      "cityName": "Olmos de Esgueva",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-07-25T13:14:03.972Z",
-      "notes": "aadad",
-      "position": {
-        "lat": "41.68111756290652",
-        "lng": "-4.520874023437501"
-      }
-    },
-    {
-      "id": "997e",
-      "cityName": "Balearic Islands",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-07-25T13:17:46.532Z",
-      "notes": "aaa",
-      "position": {
-        "lat": "39.41922073655956",
-        "lng": "3.3178710937500004"
-      }
-    },
-    {
-      "id": "e3f6",
-      "cityName": "Belvi",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2025-07-25T13:18:12.971Z",
-      "notes": "aaa",
-      "position": {
-        "lat": "39.9602803542957",
-        "lng": "9.140625000000002"
-      }
-    },
-    {
-      "id": "dca7",
-      "cityName": "Boudouaou",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2025-07-25T13:18:58.501Z",
-      "notes": "aaa",
-      "position": {
-        "lat": "36.721273880045004",
-        "lng": "3.40576171875"
-      }
     }
   ]
 }
