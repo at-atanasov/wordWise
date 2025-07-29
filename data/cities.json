@@ -61,27 +61,15 @@
       }
     },
     {
-      "id": "dc5f",
-      "cityName": "Aranzueque",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-07-25T13:02:19.876Z",
-      "notes": "assa",
+      "id": "2a0a",
+      "cityName": "Ligurian Sea Cetacean Sanctuary",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-07-29T19:11:53.979Z",
+      "notes": "",
       "position": {
-        "lat": "40.47620304302563",
-        "lng": "-3.0487060546875004"
-      }
-    },
-    {
-      "id": "d6f2",
-      "cityName": "Calvarrasa de Abajo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2025-07-25T13:02:39.248Z",
-      "notes": "aaa",
-      "position": {
-        "lat": "40.967455873296714",
-        "lng": "-5.5096435546875"
+        "lat": "43.67581809328341",
+        "lng": "7.756347656250001"
       }
     }
   ]
